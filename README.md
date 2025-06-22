@@ -1,2 +1,1 @@
-# TGshehok1
-TGshehok1
+# bot
